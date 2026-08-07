@@ -2,13 +2,14 @@
 <h3 align="center">AppSec & Purple Team Engineer | Penetration Tester & Security Tool Developer | Google SecOps Certified</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Offensive+Security+%7C+AppSec+%7C+Purple+Teaming;Building+custom+Python+security+tools;Learning+in+public+%E2%80%94+labs%2C+writeups%2C+YouTube;Google+SecOps+Certified+%7C+NUML+IT+Undergrad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&lines=Offensive+Security+%7C+AppSec+%7C+Purple+Teaming;Building+custom+Python+security+tools;Learning+in+public+%E2%80%94+labs%2C+writeups%2C+YouTube;Google+SecOps+Certified+%7C+NUML+IT+Undergrad" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-aqib-tayyab-ethical-hacker"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/MuhammadAqibTayyab"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Punjab,_Pakistan-informational?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/muhammad-aqib-tayyab-ethical-hacker"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+  <a href="https://youtube.com/@YOUR_CHANNEL_HANDLE"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FF41" /></a>
+  <a href="https://twitter.com/MuhammadAqibTayyab"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00FF41" /></a>
+  <img src="https://img.shields.io/badge/Location-Punjab,_Pakistan-000000?style=for-the-badge&logoColor=00FF41" />
 </p>
 
 ---
@@ -47,20 +48,20 @@ I'm an Information Technology undergraduate at **NUML** and a Purple Team practi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://gprm.itsvg.in/api/gh-stats?username=AqibTayyab&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://gprm.itsvg.in/api/top-langs?username=AqibTayyab&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AqibTayyab&show_icons=true&theme=merko&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqibTayyab&layout=compact&theme=merko&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://gprm.itsvg.in/api/gh-streak?user=AqibTayyab&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AqibTayyab&theme=merko&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://gprm.itsvg.in/api/trophy?username=AqibTayyab&theme=flat&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AqibTayyab&theme=matrix&no-frame=true&row=1&column=7" />
 </p>
 
 <p align="center">
-  <img src="https://gprm.itsvg.in/api/activity-graph?username=AqibTayyab&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AqibTayyab&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" />
 </p>
 
 ---
@@ -69,19 +70,19 @@ I'm an Information Technology undergraduate at **NUML** and a Purple Team practi
 
 <p align="center">
   <a href="https://github.com/AqibTayyab/Security-Engineer-Roadmap-2026">
-    <img src="https://gprm.itsvg.in/api/pin/?username=AqibTayyab&repo=Security-Engineer-Roadmap-2026&theme=default&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AqibTayyab&repo=Security-Engineer-Roadmap-2026&theme=merko&hide_border=true" />
   </a>
   <a href="https://github.com/AqibTayyab/multi-threaded-port-scanner">
-    <img src="https://gprm.itsvg.in/api/pin/?username=AqibTayyab&repo=multi-threaded-port-scanner&theme=default&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AqibTayyab&repo=multi-threaded-port-scanner&theme=merko&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AqibTayyab/DNS-Resolution-ZoneTransfers-DoH">
-    <img src="https://gprm.itsvg.in/api/pin/?username=AqibTayyab&repo=DNS-Resolution-ZoneTransfers-DoH&theme=default&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AqibTayyab&repo=DNS-Resolution-ZoneTransfers-DoH&theme=merko&hide_border=true" />
   </a>
   <a href="https://github.com/AqibTayyab/TCP-UDP-Protocol-Deep-Dive">
-    <img src="https://gprm.itsvg.in/api/pin/?username=AqibTayyab&repo=TCP-UDP-Protocol-Deep-Dive&theme=default&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AqibTayyab&repo=TCP-UDP-Protocol-Deep-Dive&theme=merko&hide_border=true" />
   </a>
 </p>
 
